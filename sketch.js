@@ -1,4 +1,4 @@
-kvar bg,bgImg;
+var bg,bgImg;
 var player, shooterImg, shooter_shooting;
 var gost_1, gost_img_1,gost_img_2,gost_img_3,gost_img_4;
 var obstacle, obsticle_img;
